@@ -1,9 +1,7 @@
+## This Application follows the [tutorial](https://auth0.com/blog/complete-guide-to-react-user-authentication/#Get-the-Starter-Application) shown below
 ![screenshot](images/screenshot.png)
 
 
-
-
-## This Application follows the [tutorial](https://auth0.com/blog/complete-guide-to-react-user-authentication/#Get-the-Starter-Application) shown above
 #### Credit:  [Dan Arias](https://auth0.com/blog/authors/dan-arias/)
 
 
@@ -17,9 +15,9 @@
 
 ### Install the client project dependencies:
 
-yarn
+```yarn```
 
 ### Run the client project:
 
-yarn start
+```yarn start``` will open localhost:3000 in your browser 
 
