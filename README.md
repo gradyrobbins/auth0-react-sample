@@ -21,3 +21,5 @@
 
 ```yarn start``` will open localhost:3000 in your browser 
 
+have fun
+
