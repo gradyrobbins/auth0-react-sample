@@ -8,6 +8,7 @@ const Profile = () => {
   const { user } = useAuth0();
   const { name, picture, email } = user;
 
+
   return (
     <Container className="mb-5">
       <Row className="align-items-center profile-header mb-5 text-center text-md-left">
