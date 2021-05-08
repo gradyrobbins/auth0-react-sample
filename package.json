@@ -24,7 +24,7 @@
     "react-syntax-highlighter": "^12.2.1",
     "serialize-javascript": "^2.1.2",
     "sockjs": "^0.3.19",
-    "ssri": "^7.1.0",
+    "ssri": "^8.0.1",
     "url-parse": "^1.5.1",
     "y18n": "^4.0.3"
   },
